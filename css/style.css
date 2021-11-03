@@ -1,0 +1,22 @@
+body{
+  background-color: #CDF2CA;
+}
+
+header {
+  background-color: #FFE3E3;
+}
+
+.heading-3-4{
+  font-size: 30px;
+  color:#A12568;
+    font-family: 'Lobster', cursive;
+}
+
+.heading-1{
+  text-align: center;
+}
+
+.image-demo{
+  height: 130px;
+  width: 130px;
+}
